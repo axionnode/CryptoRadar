@@ -1,0 +1,5 @@
+{
+  "name": "CryptoRadar - 多交易所即時行情聚合器",
+  "description": "一個專業的高效能加密貨幣儀表板，專為 BTC 與 ETH 設計，整合了 Binance、Coinbase 與 OKX 的即時 WebSocket 數據，並提供 Gemini AI 市場趨勢分析。",
+  "requestFramePermissions": []
+}
